@@ -7,7 +7,7 @@ elijahprice223@gmail.com
 I am currently a senior at the University of Washington.
 
 ### Work Experience
-I have spent a lot of time buying/selling atv's and off road vehicles. I mostly used Craigslist for this, found at https://skagit.craigslist.org/
+I have spent a lot of time buying/selling atv's and off road vehicles. I mostly used Craigslist for this, found [here].
 
 Some items that I have sold include:
 - Plenty of jeeps
@@ -22,3 +22,4 @@ Some items that I have sold include:
 
 
 [The University of Washington]: https://www.washington.edu/
+[here]: https://skagit.craigslist.org/
