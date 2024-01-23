@@ -3,4 +3,4 @@
 I fixed up some minor motor issues this pickup was having and installed a toolbox in the bed
 ![Dodge pickup][def]
 
-[def]: IMG_0457.jpg
+[def]: IMG_0457.JPG
